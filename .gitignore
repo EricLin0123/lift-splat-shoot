@@ -139,3 +139,9 @@ imagenet_pretrained/
 # data
 data/mini
 data/maps
+*.tgz
+*.tar.gz
+
+/model
+/output
+
